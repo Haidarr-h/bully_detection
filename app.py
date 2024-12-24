@@ -28,6 +28,7 @@ def get_latest_run_id_by_tag():
 # Load the latest model and vectorizer
 run_id = get_latest_run_id_by_tag()
 model_uri = f"runs:/{run_id}/logistic_regression_model"
+model_uri = "runs:/cdd687dcb30542bfa4a51aa05effc2d1/logistic_regression_model"
 vectorizer_uri = f"runs:/{run_id}/vectorizer"
 
 print(f"Model URI: {model_uri}")
