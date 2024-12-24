@@ -10,17 +10,17 @@ import subprocess
 def get_latest_run_id_by_tag():
     try:
         client = MlflowClient()
-        # Search for runs with the "is_latest" tag
+        # Ambil semua run dari eksperimen tertentu (sesuaikan ID eksperimen Anda)
         runs = client.search_runs(
-            experiment_ids="464781386301800265",  # Use your experiment ID here
-            filter_string="tags.is_latest = 'True'",
+            experiment_ids=["228268414314891703"],  # Ganti dengan ID eksperimen Anda
+            order_by=["attributes.start_time DESC"],  # Urutkan berdasarkan waktu mulai
             max_results=1
         )
         if runs:
             return runs[0].info.run_id
     except Exception as e:
         print(f"Error fetching latest run: {e}")
-    return '2b3010a8f5aa41d68415910412d8e1a8'  # Use a fallback run ID if needed
+    return '1f1144e3e5ab4710ae90c52e2a1a936d'
 
 # Load the latest model and vectorizer
 run_id = get_latest_run_id_by_tag()
@@ -73,6 +73,8 @@ def log_feedback_to_csv(text, prediction, feedback):
     if feedback == 'No':
         if prediction == 'Toxic':
             fixed = 'Not Toxic'
+            # fixed = 'Not Toxic'
+            
             
         if prediction == 'Not Toxic':
             fixed = 'Toxic'

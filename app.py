@@ -6,6 +6,9 @@ from sklearn.linear_model import LogisticRegression
 from mlflow.tracking import MlflowClient
 import subprocess
 
+# Set the MLflow tracking URI
+os.environ['MLFLOW_TRACKING_URI'] = 'file:./mlruns'
+
 # Function to get the latest run ID
 def get_latest_run_id_by_tag():
     try:
@@ -73,9 +76,6 @@ def log_feedback_to_csv(text, prediction, feedback):
     if feedback == 'No':
         if prediction == 'Toxic':
             fixed = 'Not Toxic'
-            # fixed = 'Not Toxic'
-            
-            
         if prediction == 'Not Toxic':
             fixed = 'Toxic'
     
