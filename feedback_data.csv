@@ -1,0 +1,56 @@
+text,prediction,feedback,fixed
+good,Not Toxic,Yes,Not Toxic
+"You’re so smart, I really enjoy reading your posts.",Not Toxic,Yes,Not Toxic
+"You're probably too dumb to understand this, aren’t you?",Toxic,Yes,Toxic
+"Just get lost, you’re always ruining everything.",Not Toxic,No,Toxic
+"Nobody cares about your thoughts, just stop posting.",Not Toxic,No,Toxic
+good job,Not Toxic,Yes,Not Toxic
+you bitch ass dumb,Toxic,Yes,Toxic
+good,Not Toxic,Yes,Not Toxic
+awesome job,Not Toxic,Yes,Not Toxic
+cyka blyat,Not Toxic,No,Toxic
+good,Not Toxic,Yes,Not Toxic
+you are dumb stupid,Toxic,Yes,Toxic
+I hope you have a wonderful day!,Not Toxic,Yes,Not Toxic
+"Nobody cares about your opinion, just shut up.",Toxic,Yes,Toxic
+That’s the dumbest thing I’ve ever heard.,Not Toxic,No,Toxic
+Why don’t you just quit? You’re terrible at this,Not Toxic,No,Toxic
+I can’t stand your voice; it’s unbearable.,Not Toxic,No,Toxic
+I can’t believe someone like you is still around.,Not Toxic,No,Toxic
+you are a very stupid person,Toxic,Yes,Toxic
+have a good day,Not Toxic,Yes,Not Toxic
+have a good day brother,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good job haidar,Not Toxic,Yes,Not Toxic
+good job brother,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good job brother,Not Toxic,Yes,Not Toxic
+good job brother,Not Toxic,Yes,Not Toxic
+aaa,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+aa,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good,Not Toxic,Yes,Not Toxic
+good job,Not Toxic,Yes,Not Toxic
+good job brother,Not Toxic,Yes,Not Toxic
+good job brother,Not Toxic,Yes,Not Toxic
+aaa,Not Toxic,Yes,Not Toxic
+aa,Not Toxic,Yes,Not Toxic
+aa,Not Toxic,Yes,Not Toxic
+aa,Not Toxic,Yes,Not Toxic
+asas,Not Toxic,Yes,Not Toxic

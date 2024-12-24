@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/College/Matkul%20Kuliah%20dan%20Tugas/MLOPS/1.%20Final-Project-Rill/Toxic_detection_code/mlruns/228268414314891703/cdd687dcb30542bfa4a51aa05effc2d1/artifacts
+end_time: 1735062867121
+entry_point_name: ''
+experiment_id: '228268414314891703'
+lifecycle_stage: active
+run_id: cdd687dcb30542bfa4a51aa05effc2d1
+run_name: exultant-snake-487
+run_uuid: cdd687dcb30542bfa4a51aa05effc2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735062860909
+status: 3
+tags: []
+user_id: Haidar

@@ -1,0 +1,22 @@
+text,prediction,feedback
+good,Not Toxic,Yes
+shit,Toxic,Yes
+"You're such a loser, nobody cares about your opinion.",Toxic,Yes
+"I think you’re a great person, keep up the good work!",Not Toxic,Yes
+"Everyone hates you, just go away.",Not Toxic,No
+I love how kind you are to everyone around you.,Not Toxic,Yes
+Why don’t you shut up? Nobody wants to hear your voice.,Not Toxic,No
+"You’re so smart, I really enjoy reading your posts.",Not Toxic,Yes
+"You're probably too dumb to understand this, aren’t you?",Toxic,Yes
+"Thank you for your insightful comment, it really helped me.",Not Toxic,Yes
+You should just quit already. Nobody cares.,Not Toxic,No
+"I really appreciate your support, it means a lot.",Not Toxic,Yes
+"Just get lost, you’re always ruining everything.",Not Toxic,No
+"You're an amazing person, and your efforts are truly inspiring.",Not Toxic,Yes
+"Nobody cares about your thoughts, just stop posting.",Not Toxic,No
+"Your positive attitude is contagious, I love it!",Not Toxic,Yes
+"You're so pathetic, how do you even live with yourself?",Toxic,Yes
+I admire your dedication and hard work!,Not Toxic,Yes
+"You’re such a hypocrite, I can’t stand you.",Toxic,Yes
+"It’s always a pleasure to hear your thoughts, you’re so articulate.",Not Toxic,Yes
+hello how are you,Not Toxic,Yes
