@@ -22,3 +22,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 3. Access the Interface Open your browser and navigate to the URL displayed in the terminal (typically http://localhost:8501).
+
+## If something wrong
+1. Run the mlflow locally with
+```
+mlflow ui
+```
+2. Run the first training model
+```
+python training_awal.py
+```
+
+# Thank you
